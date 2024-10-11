@@ -8,8 +8,7 @@ The project is hosted [here](file:///C:/Users/prapt/Downloads/New%20folder/clone
 
 ## Steps to Run the Game
 
-1. Open the main folder.
-2. Open `index.html` in your browser.
+1. Open `clone.html` in your browser.
 
 ## Game Controls
 
